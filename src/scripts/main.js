@@ -13,8 +13,3 @@ const render = () => {
 };
 
 render();
-
-// Listen for state changes and invoke render() when it does
-mainContainer.addEventListener("stateChanged", customEvent => {
-    render()
-})
