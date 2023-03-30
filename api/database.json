@@ -216,7 +216,7 @@
             "address": "725 Lafayette Walk, Allison, South Dakota, 5746"
         }
     ],
-    "legislations": [
+    "legislation": [
         {
             "id": 1,
             "name": "S. 292: Childhood Cancer STAR Act",
@@ -281,7 +281,7 @@
             "interestId": 7
         }
     ],
-    "politicianlegislations": [
+    "politicianLegislation": [
         {
             "id": 1,
             "politicianId": 1,
@@ -433,7 +433,7 @@
             "amount": 30193
         }
     ],
-    "corporateinterests": [
+    "corporateInterests": [
         {
             "id": 1,
             "corporationId": 5,
@@ -510,7 +510,7 @@
             "interestId": 1
         }
     ],
-    "corporatedonations": [
+    "corporateDonations": [
         {
             "id": 1,
             "corporationId": 5,
